@@ -1,5 +1,5 @@
-import 'package:dio/dio.dart';
-import 'package:dio_response_validator/src/validated_response.dart';
+import 'package:diox/diox.dart';
+import 'package:diox_response_validator/src/validated_response.dart';
 
 /// Extension on [Dio] [Response] futures for validation
 extension DioResponseValidator<U> on Future<Response<U>> {

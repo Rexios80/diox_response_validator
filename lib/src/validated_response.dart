@@ -1,4 +1,4 @@
-import 'package:dio/dio.dart';
+import 'package:diox/diox.dart';
 
 /// A validated [Dio] response
 /// - [U] is the raw response data type

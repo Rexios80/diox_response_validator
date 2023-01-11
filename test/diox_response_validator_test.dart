@@ -1,5 +1,5 @@
-import 'package:dio/dio.dart';
-import 'package:dio_response_validator/dio_response_validator.dart';
+import 'package:diox/diox.dart';
+import 'package:diox_response_validator/diox_response_validator.dart';
 import 'package:test/test.dart';
 
 void main() {
