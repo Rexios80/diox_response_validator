@@ -1,6 +1,6 @@
 name: diox_response_validator
 description: An extension on Dio response futures to perform validation and data transformation
-version: 0.2.0
+version: 0.2.1
 homepage: https://github.com/Rexios80/diox_response_validator
 
 environment:
